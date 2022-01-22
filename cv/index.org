@@ -1,0 +1,64 @@
+#+TITLE: Experience
+#+SLUG: 00
+#+OPTIONS: toc:nil
+
+My CV has a list of my previous experiences on it, but given the
+limited space, only very little can be said about them. So I decided
+that I needed to showcase the work I did on them here.
+
+* Ideaworks Game Studio / Marmalade Game Studio
+My first job out of university. I started in 2010 as a Junior
+Programmer, and left in 2013.
+- [[url_for:cv,slug=01][Lara Croft and the Guardian of Light (iOS)]] *
+- [[url_for:cv,slug=02][Transformers 3: Dark of the Moon (iOS)]]
+- [[url_for:cv,slug=03][Call of Duty: Black Ops Zombies (iOS)]] *
+- [[url_for:cv,slug=04][Backbreaker 2: Vengeance]]
+- [[url_for:cv,slug=05][Wipeout (iOS)]]
+- [[url_for:cv,slug=06][Marmalade Juice]]
+  
+* AppToyz
+I did a little contract work, working on a few Disney licensed titles,
+for a few months in 2013
+- [[url_for:cv,slug=07][Disney Mickey & Minnie Applingz]]
+- [[url_for:cv,slug=08][Disney Cars and Disney Planes]]
+
+* FreeStyle Games
+My first job after moving to 'Silicon Spa' in 2013 until 2016.
+- [[url_for:cv,slug=09][Guitar Hero: Live]] *
+- [[url_for:cv,slug=10][Guitar Hero: Live - Companion App]]
+- [[url_for:cv,slug=11][Call of Duty Online]]
+- [[url_for:cv,slug=12][Call of Duty: Ghosts]]
+
+* Viewpoint Games
+After leaving FreeStyle in 2016, I joined a VR studio, started by
+former colleagues until 2017.
+- [[url_for:cv,slug=13][Hungry Shark VR]]
+- [[url_for:cv,slug=14][Ghosts in the Toybox]]
+
+* Pixel Toys
+I spent a few months in 2017 helping out with some development at
+Pixel Toys.
+- [[url_for:cv,slug=15][Freeblade]]
+
+* Hugo Games / 5th Planet Games
+After leaving Pixel Toys, I joined a Nottingham based studio as a lead
+programmer, to open a satellite studio in Leamington Spa from 2018 to 2019.
+- [[url_for:cv,slug=16][Doodle Jump: Space Chase]]
+- [[url_for:cv,slug=17][Vikings]] *
+
+* Funsolve
+In 2019, I joined a Rugby based studio to take over the lead
+programmer role.
+- [[url_for:cv,slug=18][Jumanji: The Video Game]]
+- [[url_for:cv,slug=19][Hotwheels Ultimate Garage]]
+
+* CUEi
+Just before the pandemic hit in 2020, I joined Coventry University
+Enterprises, to work on 'non-game games', using games technologies for
+enterprise.
+- On Demand rendering
+- Layered rendering
+- VR training simulation
+- Distributed photorealistic rendering
+
+[[url_for_img:static,file=images/cv/pexels-photo-4978057.jpeg][Photo by Caleb Oquendo from Pexels]]

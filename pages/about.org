@@ -1,0 +1,20 @@
+#+TITLE: About
+* Who are you?
+  Philipp Geyer
+
+* No, Who are you? More information please.
+  I am programmer, coder, software engineer, developer, whatever you
+  want to call me. I have spent a decade in video game development,
+  and recently have been working on enterprise software.
+
+* What is the point of this website?
+  In part to contain information I'd like to put about myself, which
+  won't fit on my CV, in part to just have a place to ramble about
+  stuff. Some of it might be insightful, if I'm lucky.
+
+* Your CV? Where can I find that?
+  [[https://github.com/nistur/cv/releases][On my github]]
+
+* Why are there so many files?
+  To be honest, just download the [[https://github.com/nistur/cv/releases][latest]] PDF. If you're interested in
+  the other stuff, read [[file:cv.org][this]] writeup.

@@ -1,0 +1,29 @@
+#+TITLE: Call of Duty: Black Ops Zombies
+#+SLUG: 03
+
+[[url_for_img:static,file=images/cv/pexels-photo-5435454.jpeg][Photo by cottonbro from Pexels]]
+
+As with the earlier game I worked on, [[url_for:cv,slug=01][Lara Croft and the Guardian of
+Light]], we were working to recreate a console and PC title on
+mobile. The studio had previously already worked on Call of Duty:
+World at War Zombies, so we begun with that project as a start.
+
+Given the amount of UI that I had done on previous projects, I
+requested to work on other things as well. As such, I had a bit more
+experience on this game, working with all the different systems. This
+included writing a lot more set piece scenarios, as well as
+implementing fast lookup systems for interactables on the large maps.
+
+Regarding UI, one of the reasons that I managed to do so little,
+despite being the developer with the most UI implementation
+experience, and having the closest working relationship with the UI
+artists, was that I had discovered a project called [[http://tulrich.com/textweb.pl?path=geekstuff/gameswf.txt][gameswf]]. I spent
+two weeks integrating it with our in house rendering and asset
+management systems, and then provided support throughout the rest of
+the project for actionscript bugs, as well as optimising the rendering
+by, for example, replacing the internal font rendering with hooks into
+our own optimised bitmap font rendering systems. Overall, this allowed
+the artists far more flexibility to create dynamic menu systems, and
+allowed me to work on other game features.
+
+[[url_for_img:static,file=images/cv/pexels-photo-9818998.jpeg][Photo by Mario Wallner from Pexels]]

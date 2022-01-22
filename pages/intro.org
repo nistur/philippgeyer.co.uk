@@ -1,0 +1,14 @@
+#+TITLE: Intro
+Hello internet travelers, citizens and natives.
+
+Nice to meet you, I'm Philipp Geyer. I am a programmer and this is my
+site. It will have information about my various projects and
+history. I've worked on a bunch that I find very interesting, and
+think it's worth documenting. I also have a few personal projects that
+I think should have something written.
+
+I usually code in high level C++ and C# professionally, and in my
+personal projects, I often use low level C, but also enjoy jumping
+around languages. I have projects in lisp, assembly, C, lua and
+bash. I also enjoy experimenting with other languages, so have many
+more not shared just for the sake of experimenting with the languages.

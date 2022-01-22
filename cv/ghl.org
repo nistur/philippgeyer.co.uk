@@ -1,0 +1,22 @@
+#+TITLE: Guitar Hero: Live
+#+SLUG: 09
+
+[[url_for_img:static,file=images/cv/pexels-photo-165971.jpeg][Photo by Méline Waxx from Pexels]]
+
+I joined this project in the gameplay team, and I ended up working on
+a number of systems, including UI and input. This was a really fun
+project, as it was a game series that I grew up loving, and Guitar
+Hero: Live added some really cool new features.
+
+Among other things, this was also my first attempt to use console dev
+hardware, and I was set up to develop and test on PS3, Xbox 360, Wii-U
+and iOS. I did the majority of my console development at the time on
+the PS3 though.
+
+The development time on the game was sometimes not the easiest, with
+ubiquitous crunch rearing its head, as well as a plethora of bugs,
+which were complicated by the multiple platforms, online capabilities,
+and peripherals, but I feel I learned a lot from the experience, and
+really enjoyed it.
+
+[[url_for_img:static,file=images/cv/pexels-photo-7886380.jpeg][Photo by Mikhail Nilov from Pexels]]

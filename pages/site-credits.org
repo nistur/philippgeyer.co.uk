@@ -1,0 +1,38 @@
+#+TITLE: Website Credits
+#+SLUG: credits
+
+I am neither a web developer, nor am I an artist. This website
+couldn't have been made without open source and creative commons
+software and assets. Below I've listed everything that I haven't
+created, or had created specifically for me, along with the license
+for it.
+
+- Web server - [[https://picolisp.com/wiki/?home][Picolisp]] - [[https://opensource.org/licenses/MIT][MIT]]
+- Static site generator - [[https://emacs.love/weblorg][Weblorg]] - [[https://www.gnu.org/licenses/gpl-3.0.en.html][GPL]]
+- Footer image - [[https://ansimuz.itch.io/country-side-platfformer-][Country Side Platfformer]] - [[https://creativecommons.org/share-your-work/public-domain/cc0/][CC0]]
+
+[[url_for:cv,slug=00][CV]]
+- [[https://www.pexels.com/photo/portable-game-console-on-table-4978057/][Portable game console on table]] - [[https://www.pexels.com/@caleboquendo][Caleb Oquendo]] - [[https://www.pexels.com/license/][Pexels]]
+
+[[url_for:cv,slug=01][Lara Croft and the Guardian of Light]]
+- [[https://www.pexels.com/photo/silhouette-of-trees-at-sunset-257092/][Silhouette of Trees at Sunset]] - [[https://www.pexels.com/@pixabay][Pixabay]] - [[https://creativecommons.org/share-your-work/public-domain/cc0/][CC0]]
+- [[https://www.pexels.com/photo/sky-landmark-blue-summer-10761867/][Gray Concrete Building Under Blue Sky]] - [[https://www.pexels.com/@ted-webb-115813652][Ted Webb]] - [[https://www.pexels.com/license/][Pexels]]
+
+[[url_for:cv,slug=03][Call of Duty: Black Ops Zombies]]
+- [[https://www.pexels.com/photo/zombie-attack-5435454/][Zombie Attack]] - [[https://www.pexels.com/@cottonbro][cottonbro]] - [[https://www.pexels.com/license/][Pexels]]
+- [[https://www.pexels.com/photo/black-and-white-streets-man-love-9818998/][Grayscale Photo of Persons Feet on White Textile]] - [[https://www.pexels.com/@mario-wallner-107470762][Mario Wallner]] - [[https://www.pexels.com/license/][Pexels]]
+
+[[url_for:cv,slug=09][Guitar Hero: Live]]
+- [[https://www.pexels.com/photo/red-electric-guitar-165971/][Red Electric Guitar]] - [[https://www.pexels.com/@meline-waxx-44315][Meline Waxx]] - [[https://www.pexels.com/terms-of-service/][Pexels]]
+- [[https://www.pexels.com/photo/person-playing-a-blue-guitar-hero-live-7886380/][Person Playing a Blue Guitar Hero Live]] - [[https://www.pexels.com/@mikhail-nilov][Mikhail Nilov]] - [[https://www.pexels.com/terms-of-service/][Pexels]]
+
+[[url_for:cv,slug=17][Vikings]]
+- [[https://www.pexels.com/photo/vintage-round-viking-shields-in-wooden-house-5023698/][Vintage round Viking shields in wooden house]] - [[https://www.pexels.com/@introspectivedsgn][Erik Mclean]] - [[https://www.pexels.com/terms-of-service/][Pexels]]
+- [[https://www.pexels.com/photo/wooden-runes-and-stones-scattered-on-wool-plaid-6739035/][Wooden runes and stones scattered on wool plaid]] - [[https://www.pexels.com/@dagmara-dombrovska-22732579][Dagmara Dombrovska]] - [[https://www.pexels.com/license/][Pexels]]
+
+[[url_for:pages,slug=credits][Credits]]
+- [[https://www.pexels.com/photo/wood-connection-technology-blur-4099971/][Black Sony Ps 4 Game Controller]] - [[https://www.pexels.com/@fotogratuite][Christian Naccarato]] - [[https://www.pexels.com/terms-of-service/][Pexels]]
+
+[[url_for_img:static,file=images/cv/pexels-photo-4099971.jpeg][Photo by Christian Naccarato from Pexels]]
+
+  

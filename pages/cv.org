@@ -1,0 +1,29 @@
+#+TITLE: CV
+
+So, where did this all begin? I used to have my CV as an
+OpenOffice.org document. Every time I needed to update it, I fought
+with formatting, and ended up rewriting it. I didn't enjoy it. I
+just wanted to have my CV content separate and not have to worry
+about the formatting. Of course there is always formatting to worry
+about, but if I could abstract that away and deal with it later,
+that would make me happy.
+
+So the obvious thing to me was to use emacs [[https://orgmode.org/][org-mode]]. I previously
+used org-mode to write my dissertation, so had some experience using
+it for writing documents. I found a LaTeX stylesheet which I
+modified (albeit only slightly) and this allowed me to create a
+nicely styled PDF by just writing content into the source file.
+
+At some point, I thought it would be a good idea to make an
+executable where the command line flags would output the content of
+my CV. This then needed to embed the original data into it, so I had
+to carve out the data from the org-mode file and embed it into the
+source for the executable.
+
+At this point, I had several languages in play for the project, so I
+thought it'd be fun to see how many different languages I could
+use. So I wrote another script to convert my CV to a
+man-page... because why not.
+
+I have some other things planned for other languages and outputs,
+but that's all for now.

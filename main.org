@@ -1,3 +1,0 @@
-* Test page
-  This is awesome no?
-  Maybe. We'll see if it actually works

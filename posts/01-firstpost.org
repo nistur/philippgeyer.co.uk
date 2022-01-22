@@ -1,0 +1,74 @@
+#+TITLE: A New Start
+
+#+BEGIN_EXAMPLE
+All we have to decide is what to do with the time that is given us. - JRR Tolkien
+#+END_EXAMPLE
+
+I used to have an old site, which I hosted at http://nistur.com. I had
+an ancient version of Wordpress which I pretty much abandoned. I kept
+the page around because I had my CV linking to various parts of it. I
+wanted to keep the domain name, because it was a handle I had used
+since I was a teenager, but the site itself didn't bother me. When the
+site just totally gave up, I had to decide what to do. Either I could
+try to put it onto life support for the purpose of just expanding on
+the information in my [[file:pages/cv.org][CV]] or, I could create something new.
+
+I did procrastinate, trying to decide what was best to spend my time
+working on. I could install a brand new version of Wordpress on a
+site, I could write something from scratch, I could run a Wix site, I
+could use one of a million different solutions.
+
+I am not a web developer. I have done a small amount of web
+development, enough to know that while I can write some backend tech
+for services I need in my projects, I do not want to be writing
+sites. So this ruled out my normal goto, write it from scratch. Using
+something like Wix wasn't "on brand" with my CV though, which is
+esoteric and awkward, solving a problem in an interesting way.
+
+I also didn't know where I wanted to host it. I had been using a big
+CPanel based host system for the past 10+ years, but I think I'm
+probably overpaying, and I definitely don't feel comfortable in that
+system, it's both too complicated for what I actually use, but at the
+same time feels too simplified for me to get stuck in and use it.
+
+Then I had an idea. I could, temporarily at least, host a page on
+AWS. Their t2.micro instances are free for 12 months. At the end of
+that time, I could decide what to do. If I was using such a minimal
+instance, I probably didn't want a big web server, database system
+etc. I don't need those. I have a small website with only pretty
+minimal data on it. I could create a static site, and host it using
+[[https://picolisp.com][Picolisp]] as a web server. This would allow me a pretty slimline system
+that I could expand to do more dynamic content if I wanted to in
+future, but also the static site would mean that if I changed where I
+wanted to host it in future, I would just copy the data files onto the
+new host. Simple.
+
+What static site generator then? Most people would probably go for
+something that uses Markdown, and I did seriously consider that. The
+solutions are very good, and very well supported. I, however, had been
+using Emacs [[https://orgmode.org][Org-Mode]] for almost 15 years for many things, including
+authoring documents. So I found [[https://emacs.love/weblorg][Weblorg]] which seemed to tick all my
+boxes. /I could have just used org-html-export-to-html but I wanted
+something a bit slicker really./
+
+So, there we have my current setup, I have a repository, which I will
+shortly push to github, once I have a few more pages fleshed out, and
+maybe some minor customisation done on the site, it exports with
+Weblorg, and gets hosted on AWS with a picolisp webserver. Could I
+have had a site up and running much quicker than this? Of course. I
+chose this path though, because it was /relatively/ quick, compared to
+trying to write myself a site from scratch, but at the same time,
+maintains some of the interest that keeps me invested in projects. I
+feel, for me, this is a better solution than an easier one.
+
+I also decided to not use nistur.com as a domain for my CV related
+stuff. Instead I'm going to be keeping my 'professional' things on
+here, [[http://philippgeyer.co.uk][PhilippGeyer.co.uk]]. I will at some point also revive nistur.com
+and use that for less related personal projects. I am not trying to
+distance myself from that by switching domains, but rather just trying
+to keep things a bit more organised. I also won't make this
+particularly tight laced. As should be obvious by this post, I find
+more informal writing a lot easier, so I'll keep this laid back
+approach.
+
+That's probably it for now.

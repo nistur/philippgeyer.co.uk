@@ -1,0 +1,48 @@
+#+TITLE: Vikings
+#+SLUG: 17
+
+[[url_for_img:static,file=images/cv/pexels-photo-5023698.jpeg][Photo by Erik Mclean from Pexels]]
+
+This was a project that interested me greatly. It was a tie in with
+the Netflix series of the same name. Unfortunately I inherited a
+project that had come from a previous design iteration, so while we
+had some work to begin with, a large amount of it had to be restarted.
+
+The best way that I could describe the game is, a multiplayer,
+turnbased battle system, similar to, for example, Final Fantasy VII,
+with team building and character collecting.
+
+The team we started off with was just me, a designer, and the artists
+that had been on the project since the beginning. My first task was to
+identify what we needed to get the project completed. I hired
+programmers for the main game development, but then also found a
+contract company to provide backend and network development
+support. With the guidance of the backend expert, I designed an
+architecture that would allow us to develop the game in a staged way,
+so that it should not require major rewrites to add features or change
+technologies when we scaled up.
+
+As we were already playing catchup on this project, which had been
+running for some time before we got a hold of it, my primary goal was
+to get an actual multiplayer game running as soon as possible, so,
+while the art assets that had already been created were used, little
+additional final UI was created or implemented.
+
+The next most important thing that was done on this project was for me
+to work with the artists to attempt to formalise an art pipeline,
+especially for animation, so that we had a reliable way to get high
+quality animations importing correctly.
+
+The final thing that I did was migrate the project from an aging
+Subversion system running in house to a cloud based git project. This
+was primarily because we were working across multiple studios and I
+felt this was the most reliable way to be able to run the project
+smoothly. I provided training and support for those unfamiliar with
+distributed version control, and git.
+
+Unfortunately this project did not get much further than just getting
+the re-envisioned proof of concept done, as the TV series got
+cancelled, causing the company to close the satellite studio that I
+was a part of.
+
+[[url_for_img:static,file=images/cv/pexels-photo-6739035.jpeg][Photo by Dagmara Dombrovska from Pexels]]
