@@ -1,2 +1,27 @@
 #+TITLE: Doodle Jump: Space Chase
 #+SLUG: 16
+
+[[url_for_img:static,file=images/cv/pexels-photo-3617464.jpeg][Photo by Benjamin Suter from Pexels]]
+
+This project was already well in development by the time I joined the
+studio. One of my initial tasks was to do a review of the codebase and
+suggest improvements. From there, I implemented a few changes, and
+refactored a bit.
+
+The immediate issue was performance, there were several systems in the
+game which caused significant issues in both editor and runtime
+performance. This involved getting quite deep into the Unity profiling
+tools and picking apart the codebase to identify the issue, before
+proposing solutions to solve the problems, liasing with the team to
+establish potential issues with it, and implementing the new
+redesigns.
+
+One other issue established early on was that the game was not being
+coded defensively, and was throwing errors very frequently. Unity
+helpfully tries to ignore these and continue executing. This was
+causing some odd bugs, so I implemented a similar BSoD that I created
+for the [[url_for:cv,slug=10][Guitar Hero Live Companion App]], which initially got some
+pushback from the rest of the team, but was quickly accepted as being
+a useful tool to remain enabled.
+
+[[url_for_img:static,file=images/cv/photo-1634832413517-7f48f67e3da4.jpeg][Photo by Adam Jícha on Unsplash]]

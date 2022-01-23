@@ -26,4 +26,12 @@ use. So I wrote another script to convert my CV to a
 man-page... because why not.
 
 I have some other things planned for other languages and outputs,
-but that's all for now.
+but that's all for now on that.
+
+One of the issues I have with a CV is that it has to be pretty short,
+so I cannot give much information about what I worked on. As a
+compromise I've written a [[url_for:cv,slug=00][few short paragraphs]] about each project, so
+that I can expand and explain what I think might have been the most
+interesting parts. I will still try to keep these pretty brief, no-one
+is likely to be interested in a 5,000 word article on how I
+implemented the menu UI for the [[url_for:cv,slug=03][iOS version of Call of Duty: Black Ops Zombies]].

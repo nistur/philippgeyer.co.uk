@@ -9,7 +9,7 @@
 
 * What is the point of this website?
   In part to contain information I'd like to put about myself, which
-  won't fit on my CV, in part to just have a place to ramble about
+  [[url_for:cv,slug=00][won't fit on my CV]], in part to just have a place to ramble about
   stuff. Some of it might be insightful, if I'm lucky.
 
 * Your CV? Where can I find that?

@@ -26,6 +26,10 @@ for it.
 - [[https://www.pexels.com/photo/red-electric-guitar-165971/][Red Electric Guitar]] - [[https://www.pexels.com/@meline-waxx-44315][Meline Waxx]] - [[https://www.pexels.com/terms-of-service/][Pexels]]
 - [[https://www.pexels.com/photo/person-playing-a-blue-guitar-hero-live-7886380/][Person Playing a Blue Guitar Hero Live]] - [[https://www.pexels.com/@mikhail-nilov][Mikhail Nilov]] - [[https://www.pexels.com/terms-of-service/][Pexels]]
 
+[[url_for:cv,slug=16][Doodle Jump: Space Chase]]
+- [[https://www.pexels.com/photo/spaceship-earth-at-epcot-3617464/][Spaceship Earth at Epcot]] - [[https://www.pexels.com/@benjaminjsuter][Benjamin Suter]] - [[https://www.pexels.com/license/][Pexels]]
+- [[https://unsplash.com/photos/7AckmETIk54][3D Pyramid Scene]] - [[https://unsplash.com/@rothwellden][Adam Jícha]] - [[https://unsplash.com/license][Unsplash]]
+  
 [[url_for:cv,slug=17][Vikings]]
 - [[https://www.pexels.com/photo/vintage-round-viking-shields-in-wooden-house-5023698/][Vintage round Viking shields in wooden house]] - [[https://www.pexels.com/@introspectivedsgn][Erik Mclean]] - [[https://www.pexels.com/terms-of-service/][Pexels]]
 - [[https://www.pexels.com/photo/wooden-runes-and-stones-scattered-on-wool-plaid-6739035/][Wooden runes and stones scattered on wool plaid]] - [[https://www.pexels.com/@dagmara-dombrovska-22732579][Dagmara Dombrovska]] - [[https://www.pexels.com/license/][Pexels]]
