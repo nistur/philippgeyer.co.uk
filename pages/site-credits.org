@@ -34,6 +34,10 @@ for it.
 - [[https://www.pexels.com/photo/vintage-round-viking-shields-in-wooden-house-5023698/][Vintage round Viking shields in wooden house]] - [[https://www.pexels.com/@introspectivedsgn][Erik Mclean]] - [[https://www.pexels.com/terms-of-service/][Pexels]]
 - [[https://www.pexels.com/photo/wooden-runes-and-stones-scattered-on-wool-plaid-6739035/][Wooden runes and stones scattered on wool plaid]] - [[https://www.pexels.com/@dagmara-dombrovska-22732579][Dagmara Dombrovska]] - [[https://www.pexels.com/license/][Pexels]]
 
+[[url_for:cv,slug=18][Jumanji: The Video Game]]
+- [[https://www.pexels.com/photo/building-with-tree-1534057/][Building With Tree]] - [[https://www.pexels.com/@souvenirpixels][James Wheeler]] - [[https://www.pexels.com/license/][Pexels]]
+- [[https://unsplash.com/photos/pNArDGC_aNY][Medellín, Colombia]] - [[https://unsplash.com/@miloezger][Milo Miloezger]] - [[https://unsplash.com/license][Unsplash]]
+  
 [[url_for:pages,slug=credits][Credits]]
 - [[https://www.pexels.com/photo/wood-connection-technology-blur-4099971/][Black Sony Ps 4 Game Controller]] - [[https://www.pexels.com/@fotogratuite][Christian Naccarato]] - [[https://www.pexels.com/terms-of-service/][Pexels]]
 

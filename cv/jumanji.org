@@ -1,2 +1,25 @@
 #+TITLE: Jumanji: The Video Game
 #+SLUG: 18
+
+[[url_for_img:static,file=images/cv/pexels-photo-1534057.jpeg][Photo by James Wheeler from Pexels]]
+
+One of my first tasks, and an ongoing one, was to provide support for
+the game to run on Nintendo Switch. Prior to this it had only been
+tested on PC, and on Sony PS4. As such, it took a good deal of
+optimisation to run at anything resembling a reasonable
+framerate. This involved playing around with the Unreal profiling
+tools, as well as write some profiling systems myself, and liasing
+with, usually artists, to get compromises working which would be
+acceptable as a final product.
+
+I didn't find myself doing too much feature work on Jumanji,
+unfortunately, as a lot of my time was spent managing the team,
+liasing with art and design to make sure they got what they got, when
+they needed it, and what little time I did get, was mostly spent
+optimising performance, and bug fixing.
+
+This project was a first for me in many ways, including the first time I
+used Unreal's Blueprints properly, and the first time that I was
+involved with the submission of a console game to first parties.
+
+[[url_for_img:static,file=images/cv/photo-1524944240950-f674e8790bf0.jpeg][Photo by Milo Miloezger]]
