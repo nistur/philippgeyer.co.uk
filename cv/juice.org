@@ -1,2 +1,19 @@
 #+TITLE: Marmalade Juice
 #+SLUG: 06
+
+[[url_for_img:static,file=images/cv/pexels-photo-616833.jpeg][Photo by Toni Cuenca from Pexels]]
+
+This was a project, which should allow for iOS obj-c apps to be
+deployed to Android. We were doing it primarily for a client who had a
+top grossing iOS app and wanted to release on Android without having
+to rewrite the entire game, and maintaining two codebases.
+
+We then created an obj-c layer which would sit on top of our cross
+platform tech and would allow for it to be run on Android, or in
+theory any of the many supported platforms. Overall the project was
+very interesting, and seemed to work pretty well. It was also very
+interesting as it involved working with obj-c, C++, and also a little
+Java for some of the Android specific code, as well as working with
+the underlying systems to be able to match the functionality.
+
+[[url_for_img:static,images/cv/photo-1590083052217-3c5ca32f3906.jpeg][Photo by Yulia Khlebnikova on Unsplash]]

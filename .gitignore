@@ -6,5 +6,5 @@ output
 # similarly, this is also a symlink, but for another reason. If I copy the static
 # data directly into the output, all links to it will be annoyingly prefixed with output/
 # so instead copy to the root of the project, which is symlinked into the output dir
-static/
-static
+/static/
+/static
