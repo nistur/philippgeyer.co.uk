@@ -16,4 +16,4 @@ interesting as it involved working with obj-c, C++, and also a little
 Java for some of the Android specific code, as well as working with
 the underlying systems to be able to match the functionality.
 
-[[url_for_img:static,images/cv/photo-1590083052217-3c5ca32f3906.jpeg][Photo by Yulia Khlebnikova on Unsplash]]
+[[url_for_img:static,file=images/cv/photo-1590083052217-3c5ca32f3906.jpeg][Photo by Yulia Khlebnikova on Unsplash]]
