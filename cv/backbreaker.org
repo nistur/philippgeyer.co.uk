@@ -1,2 +1,20 @@
 #+TITLE: Backbreaker 2: Vengeance
 #+SLUG: 04
+
+[[url_for_img:static,file=images/cv/photo-1566577740641-503e61e4646a.jpeg][Photo by Dave Adamson on Unsplash]]
+
+We contracted an external company to develop Backbreaker 2, based on
+our original Backbreaker codebase. We did still have a few people
+in-house working on the project though. One of my tasks was to oversee
+the external developers' work and perform code reviews. I also created
+a few custom UI pages and elements. These would be used as prototypes
+that the external developers could use to create the remaining UI.
+
+One of the more interesting tasks was to generate new animation
+sets. While we didn't have enough processing power to use
+NaturalMotion's full animation system, we did use it offline to
+generate canned animations, and worked with their runtime libraries to
+still get some of the feeling of the physics based animations of the
+console titles.
+
+[[url_for_img:static,file=images/cv/photo-1610729866389-fbf90649c302.jpeg][Photo by Thomas Park on Unsplash]]

@@ -57,7 +57,7 @@ Programmer, and left in 2013.
 - [[url_for:cv,slug=01][Lara Croft and the Guardian of Light (iOS)]] *
 - [[url_for:cv,slug=02][Transformers 3: Dark of the Moon (iOS)]]
 - [[url_for:cv,slug=03][Call of Duty: Black Ops Zombies (iOS)]] *
-- [[url_for:cv,slug=04][Backbreaker 2: Vengeance]]
+- [[url_for:cv,slug=04][Backbreaker 2: Vengeance]] *
 - [[url_for:cv,slug=05][Wipeout (iOS)]]
 - [[url_for:cv,slug=06][Marmalade Juice]] *
 
