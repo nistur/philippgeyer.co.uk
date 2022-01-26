@@ -5,8 +5,7 @@
 
 This project was already well in development by the time I joined the
 studio. One of my initial tasks was to do a review of the codebase and
-suggest improvements. From there, I implemented a few changes, and
-refactored a bit.
+suggest improvements.
 
 The immediate issue was performance, there were several systems in the
 game which caused significant issues in both editor and runtime

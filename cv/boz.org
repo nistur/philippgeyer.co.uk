@@ -8,7 +8,7 @@ Light]], we were working to recreate a console and PC title on
 mobile. The studio had previously already worked on Call of Duty:
 World at War Zombies, so we begun with that project as a start.
 
-Given the amount of UI that I had done on previous projects, I
+Given the amount of UI work that I had done on previous projects, I
 requested to work on other things as well. As such, I had a bit more
 experience on this game, working with all the different systems. This
 included writing a lot more set piece scenarios, as well as

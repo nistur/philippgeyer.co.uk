@@ -8,14 +8,14 @@ game originally made for PC and console. My first project while at
 Ideaworks Game Studio, was to work on a recreation of this game for
 mobile platforms.
 
-The game was written with in house tech, in C++. We had access to
+The game was written with in-house tech, in C++. We had access to
 console game assets, but we created mobile optimised assets for use in
 the game.
 
-My work in the game involved implementing game systems for setpiece
+My work in the game involved implementing systems for setpiece
 objects, multiplayer programming, and setting up an extensible UI system.
 
-We were using an in house UI solution, which used a C-style layout
+We were using an in-house UI solution, which used a C-style layout
 language. One of my main jobs was to work with this system, making
 custom widgets, as well as a library of reusable components with which
 we could quickly develop the UI, and share resources between

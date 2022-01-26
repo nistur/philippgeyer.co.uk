@@ -3,7 +3,7 @@
 
 [[url_for_img:static,file=images/cv/pexels-photo-5023698.jpeg][Photo by Erik Mclean from Pexels]]
 
-This was a project that interested me greatly. It was a tie in with
+This was a project that interested me greatly. It was a tie-in with
 the Netflix series of the same name. Unfortunately I inherited a
 project that had come from a previous design iteration, so while we
 had some work to begin with, a large amount of it had to be restarted.
@@ -34,7 +34,7 @@ especially for animation, so that we had a reliable way to get high
 quality animations importing correctly.
 
 The final thing that I did was migrate the project from an aging
-Subversion system running in house to a cloud based git project. This
+Subversion system running in-house to a cloud based git repository. This
 was primarily because we were working across multiple studios and I
 felt this was the most reliable way to be able to run the project
 smoothly. I provided training and support for those unfamiliar with

@@ -16,7 +16,7 @@ the PS3 though.
 The development time on the game was sometimes not the easiest, with
 ubiquitous crunch rearing its head, as well as a plethora of bugs,
 which were complicated by the multiple platforms, online capabilities,
-and peripherals, but I feel I learned a lot from the experience, and
+and peripherals - but I feel I learned a lot from the experience, and
 really enjoyed it.
 
 [[url_for_img:static,file=images/cv/pexels-photo-7886380.jpeg][Photo by Mikhail Nilov from Pexels]]
