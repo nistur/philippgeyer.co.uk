@@ -1,2 +1,23 @@
 #+TITLE: Call of Duty: Ghosts
 #+SLUG: 12
+
+[[url_for_img:static,file=images/cv/pexels-photo-78783.jpeg][Photo by Pixabay from Pexels]]
+
+We were working on a companion app for Call of Duty Ghosts. The
+intention of the section we were working on was to create a map view
+for the Squads game mode, which would allow players to get a birds eye
+view of how their team was playing, call in air strikes and command
+their squad. 
+
+This project was developed in Unity and intended to communicate with
+the main game over the standard Call of Duty networking services. We
+worked on a protocol with the main game team and implemented the app
+side. We generated sample game data, based on the protocols we have
+agreed on and were able to develop and test using that.
+
+Unfortunately the app was never released, as we were not able to get
+the support to get the protocol implemented in the main game. It was
+still a very interesting project, to work on such a different kind of
+game system.
+
+[[url_for_img:static,file=images/cv/pexels-photo-930436.jpeg][Photo by Francesco Paggiaro from Pexels]]
