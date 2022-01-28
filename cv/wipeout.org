@@ -1,2 +1,18 @@
 #+TITLE: Wipeout
 #+SLUG: 05
+
+[[url_for_img:static,file=images/cv/pexels-photo-906023.jpeg][Photo by Noelle Otto from Pexels]]
+
+This was my first experience using Unity, rather than our in house
+tech that we had used for previous projects. It was certainly a
+learning experience, as I was far more used to getting stuck in with
+lower level problems, while Unity allowed me to worry mostly about
+far different issues.
+
+One of my tasks in this game was to implement the UI system. However,
+unlike previous games, there wasn't an easy UI solution at the time,
+so instead we made use of far more 3D UI elements than we ever could
+before. Connected with this, I also worked on the input handling, and
+how that controlled the character.
+
+[[url_for_img:static,file=images/cv/pexels-photo-887821.jpeg][Photo by Tirachard Kumtanom from Pexels]]
