@@ -3,4 +3,8 @@ os: linux
 files:
   - source: /
     destination: /home/ec2-user/philippgeyer.co.uk
-    
+hooks:
+  ApplicationStart:
+    - location: scripts/build.sh
+      timeout: 300
+      runas: ec2-user
