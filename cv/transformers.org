@@ -1,7 +1,7 @@
 #+TITLE: Transformers 3: Dark of the Moon
 #+SLUG: 02
 
-[[img_for_url:static,file=images/cv/pexels-photo-7019376.jpeg][Photo by cottonbro from Pexels]]
+[[url_for_img:static,file=images/cv/pexels-photo-7019376.jpeg][Photo by cottonbro from Pexels]]
 
 Transformers was built on top of the technology we already had in
 place from [[url_for:cv,slug=01][Lara Croft and the Guardian of Light]] so it really felt like
