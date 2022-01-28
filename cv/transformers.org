@@ -1,2 +1,24 @@
 #+TITLE: Transformers 3: Dark of the Moon
 #+SLUG: 02
+
+[[img_for_url:static,file=images/cv/pexels-photo-7019376.jpeg][Photo by cottonbro from Pexels]]
+
+Transformers was built on top of the technology we already had in
+place from [[url_for:cv,slug=01][Lara Croft and the Guardian of Light]] so it really felt like
+we hit the ground running with this one. As with before I tried to get
+involved with every part of the development, but again fell in with
+the UI.
+
+One task I had was to  update to a new UI system that provided a
+little more flexibility. Unfortunately there were also a number of
+issues with the system in the way of bugs and missing features, so I
+worked closely with the developer who created the new UI solution to
+identify the problems, and improve it.
+
+Additionally, I wrote the vehicle handling for the transformers. I
+tried a few different handling models until we decided that the
+simplest one felt the best with the gameplay, and the mobile touch
+controls. I also created tools for designers to be able to tweak the
+handling.
+
+[[url_for_img:static,file=images/cv/photo-1578652520385-c05f6f3b5de3.jpeg][Photo by Aditya Rathod on Unsplash]]
