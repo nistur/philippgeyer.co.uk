@@ -4,6 +4,10 @@ files:
   - source: /
     destination: /home/ec2-user/philippgeyer.co.uk
 hooks:
+  AfterInstall:
+    - location: scripts/permissions.sh
+      timeout: 300
+      runas: root
   ApplicationStart:
     - location: scripts/build.sh
       timeout: 300
