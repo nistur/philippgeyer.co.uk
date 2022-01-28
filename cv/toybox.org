@@ -1,2 +1,32 @@
 #+TITLE: Ghosts in the Toybox
 #+SLUG: 14
+
+[[url_for_img:static,images/cv/photo-1568828668638-b1b4014d91a2.jpeg][Photo by Susan Holt Simpson on Unsplash]]
+
+This game initially started out as a gamejam idea, where we attempted
+to find interesting mechanics we could do with Mobile VR, with the
+intention of making a game for Google Daydream, GearVR, or later port
+it to other platforms. We decided that the most interesting use for
+the motion controller was frisbee golf. After that time, I spent a
+little time playing with different courses, trying to find something
+fun, but we established that there were two main issue, the first
+being that the motion controllers for mobile VR were not accurate
+enough to be able to get repeatable shots, but also that you have to
+throw one frisbee, then wait to see where it lands, it was not as
+interesting after playing for a short while, we wanted something
+slightly more fast paced.
+
+The game was then, instead, changed to a wave shooter, in a slightly
+cutesy style. I worked on some smoke and mirrors with the throwing
+that would allow you to have repeatable shots which, while not as
+realistic, given the much more aggressive pace, it was a far more
+enjoyable experience.
+
+As the development team for this game was very small, I handled a lot
+of the codebase myself. One of the biggest problems I attacked was
+that we wanted to have a single seemless world. For this I created a
+streaming and culling system that would allow us to aggressively
+unload the level as we moved through it, and load the next sections
+just in time.
+
+[[url_for_img:static,file=images/cv/photo-ghosts.jpeg][Enemy Ghosts knitted by PixelKnitting on Etsy]]
