@@ -1,7 +1,7 @@
 #+TITLE: Ghosts in the Toybox
 #+SLUG: 14
 
-[[url_for_img:static,images/cv/photo-1568828668638-b1b4014d91a2.jpeg][Photo by Susan Holt Simpson on Unsplash]]
+[[url_for_img:static,file=images/cv/photo-1568828668638-b1b4014d91a2.jpeg][Photo by Susan Holt Simpson on Unsplash]]
 
 This game initially started out as a gamejam idea, where we attempted
 to find interesting mechanics we could do with Mobile VR, with the
