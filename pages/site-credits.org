@@ -53,6 +53,10 @@ for it.
 [[url_for:cv,slug=14][Ghosts in the Toybox]]
 - [[https://unsplash.com/photos/GQ327RPuxhI][Alphabet Blocks]] - [[https://unsplash.com/@shs521][Susan Holt Simpson]] - [[https://unsplash.com/license][Unsplash]]
 
+[[url_for:cv,slug=15][Freeblade]]
+- [[https://www.pexels.com/photo/horse-chest-piece-on-chess-board-1660753/][Horse Chest Piece on Chess Board]] - [[https://www.pexels.com/@schach100-793229][schach100]] - [[https://www.pexels.com/license/][Pexels]]
+- [[https://unsplash.com/photos/zE612_hD6GI][Knight]] - [[https://unsplash.com/@jupp][Jonathan Kemper]] - [[https://unsplash.com/license][Unsplash]]
+
 [[url_for:cv,slug=16][Doodle Jump: Space Chase]]
 - [[https://www.pexels.com/photo/spaceship-earth-at-epcot-3617464/][Spaceship Earth at Epcot]] - [[https://www.pexels.com/@benjaminjsuter][Benjamin Suter]] - [[https://www.pexels.com/license/][Pexels]]
 - [[https://unsplash.com/photos/7AckmETIk54][3D Pyramid Scene]] - [[https://unsplash.com/@rothwellden][Adam Jícha]] - [[https://unsplash.com/license][Unsplash]]

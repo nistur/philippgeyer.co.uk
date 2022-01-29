@@ -31,7 +31,7 @@ programmer, to open a satellite studio in Leamington Spa from 2018 to 2019.
 * Pixel Toys
 I spent a few months in 2017 helping out with some development at
 Pixel Toys.
-- [[url_for:cv,slug=15][Freeblade]]
+- [[url_for:cv,slug=15][Freeblade]] *
 
 * Viewpoint Games
 After leaving FreeStyle in 2016, I joined a VR studio, started by

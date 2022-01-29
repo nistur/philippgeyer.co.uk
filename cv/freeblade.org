@@ -1,2 +1,25 @@
 #+TITLE: Freeblade
 #+SLUG: 15
+
+[[url_for_img:static,images/cv/pexels-photo-1660753.jpeg][Photo by schach100 from Pexels]]
+
+I was asked to help with the porting of Freeblade to tvOS. There were
+a few things involved with this, the immediate thing was to ensure
+that the control system functioned using the Apple TV's touch remote.
+
+The larger task was to update the iOS builds of the game to use a
+different cloud storage solution for use with their savegames, as it
+was required that a user be able to play on both iOS and tvOS with the
+same data. This involved creating a detailed plan of a migration for
+iOS users, as well as proof of concept for the proposed save solution,
+before attempting the implementation. It was planned to be a phased
+rollout, with a small cohort going through 4 phases to check
+compatibility before performing the migration for rest of the users.
+
+Unfortunately a bug which didn't present itself until it was in the
+wild caused problems and the need to push out a subsequent quick patch
+for this. While that result isn't my proudest moment, it has
+re-emphasised the need to do rigorous QA on anything that gets pushed
+live.
+
+[[url_for_img:static,file=images/cv/photo-1600081728723-c8aa2ee3236a.jpeg][Photo by Jonathan Kemper on Unsplash]]
