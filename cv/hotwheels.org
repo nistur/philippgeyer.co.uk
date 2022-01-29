@@ -1,2 +1,16 @@
 #+TITLE: HotWheels Ultimate Garage
 #+SLUG: 19
+
+[[url_for_img:static,images/cv/photo-1589018057745-8c699b3f361c.jpeg][Photo by Claudio Schwarz on Unsplash]]
+
+We were asked to help another studio out with some work on the
+Hotwheels ID line. This involved having RFID sensors in certain cars,
+and a smart track to detect their position speed etc. I helped a
+little on the maintenance of their main Hotwheels ID app, but mostly I
+was working on the development of a new app, aimed at younger
+children, to go alongside their Ultimate Garage playset.
+
+I worked with designers to come up with feasible minigames that could
+be played, and implemented prototypes to test them out.
+
+[[url_for_img:static,file=images/cv/pexels-photo-754898.jpeg][Photo by Bhupendra Singh from Pexels]]

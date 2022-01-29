@@ -20,7 +20,7 @@ enterprise.
 In 2019, I joined a Rugby based studio to take over the lead
 programmer role.
 - [[url_for:cv,slug=18][Jumanji: The Video Game]] *
-- [[url_for:cv,slug=19][Hotwheels Ultimate Garage]]
+- [[url_for:cv,slug=19][Hotwheels Ultimate Garage]] *
 
 * Hugo Games / 5th Planet Games
 After leaving Pixel Toys, I joined a Nottingham based studio as a lead

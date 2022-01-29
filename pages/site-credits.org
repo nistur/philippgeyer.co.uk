@@ -68,6 +68,10 @@ for it.
 [[url_for:cv,slug=18][Jumanji: The Video Game]]
 - [[https://www.pexels.com/photo/building-with-tree-1534057/][Building With Tree]] - [[https://www.pexels.com/@souvenirpixels][James Wheeler]] - [[https://www.pexels.com/license/][Pexels]]
 - [[https://unsplash.com/photos/pNArDGC_aNY][Medellín, Colombia]] - [[https://unsplash.com/@miloezger][Milo Miloezger]] - [[https://unsplash.com/license][Unsplash]]
+
+[[url_for:cv,slug=19][Hotwheels Ultimate Garage]]
+- [[https://unsplash.com/photos/DvTUnx7OOuo][Grey and White Parking Garage]] - [[https://unsplash.com/@purzlbaum][Claudio Schwarz]] - [[https://unsplash.com/license][Unsplash]]
+- [[https://www.pexels.com/photo/selective-focus-photography-of-classic-blue-coupe-die-cast-model-in-front-of-string-lights-on-table-754898/][Classic Blue Coupe Die-cast Model]] - [[https://www.pexels.com/@bhuppigraphy][Bhupendra Singh]] - [[https://www.pexels.com/license/][Pexels]]
   
 [[url_for:pages,slug=credits][Credits]]
 - [[https://www.pexels.com/photo/wood-connection-technology-blur-4099971/][Black Sony Ps 4 Game Controller]] - [[https://www.pexels.com/@fotogratuite][Christian Naccarato]] - [[https://www.pexels.com/terms-of-service/][Pexels]]
