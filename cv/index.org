@@ -36,7 +36,7 @@ Pixel Toys.
 * Viewpoint Games
 After leaving FreeStyle in 2016, I joined a VR studio, started by
 former colleagues until 2017.
-- [[url_for:cv,slug=13][Hungry Shark VR]]
+- [[url_for:cv,slug=13][Hungry Shark VR]] *
 - [[url_for:cv,slug=14][Ghosts in the Toybox]] *
 
 * FreeStyle Games

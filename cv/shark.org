@@ -1,2 +1,29 @@
 #+TITLE: Hungry Shark VR
 #+SLUG: 13
+
+[[url_for_img:static,file=images/cv/pexels-photo-4781932.jpeg][Photo by Ben Phillips from Pexels]]
+
+We had received a spec from the publisher, along with some feature
+protype projects, which gave the basis for this game. It was intended
+to be played on mobile VR, and we were to use head motion to control
+the movement of the shark.
+
+One of the major tasks I undertook on this project was to develop the
+AI for all the other fish and sea creatures. Given the relatively fast
+paced nature of the game, it was acceptable for them to be somewhat
+simplistic, but they had to be seen to flock, or hunt, or run away. A
+major limitation of this was that the level was pretty open, so to
+have it feel interesting, we ended up having several thousane AI
+entities. For this reason, I designed the system in order to be able
+to balance the work done, so we could get reliable updating, but did
+not overpower the device.
+
+Related to the performance, it was difficult to establish what was
+causing us problems a lot of the time, so I wrote a debug profiling
+system, which would track the performance and write it to a file,
+along with information such as the current facing direction, and camera
+field of view. With this information, I could then use it offline to
+generate a 3D heatmap of frame time, allowing us to identify problem
+areas and address them individually.
+
+[[url_for_img:static,file=images/cv/photo-1611304170711-0a02d1b23329.jpeg][Photo by Nikolay Kovalenko on Unsplash]]

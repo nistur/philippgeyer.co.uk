@@ -46,6 +46,10 @@ for it.
 - [[https://www.pexels.com/photo/soldier-holding-rifle-78783/][Soldier Holding Rifle]] - [[https://www.pexels.com/@pixabay][Pixabay]] - [[https://www.pexels.com/creative-commons-images/][Pexels]]
 - [[https://www.pexels.com/photo/photo-of-building-930436/][Photo of Building]] - [[https://www.pexels.com/@paggiarofrancesco][Francesco Paggiaro]] - [[https://www.pexels.com/license/][Pexels]]
 
+[[url_for:cv,slug=13][Hungry Shark VR]]
+- [[https://www.pexels.com/photo/grey-shark-swimming-in-blue-waters-4781932/][Grey Shark Swimming In Blue Waters]] - [[https://www.pexels.com/@ben-phillips-3129726][Ben Phillips]] - [[https://www.pexels.com/license/][Pexels]]
+- [[https://unsplash.com/photos/xcjlPPsopw8][Jellyfish in London Sea Life]] - [[https://unsplash.com/@nikolasvako][Nikolay Kovalenko]] - [[https://unsplash.com/license][Unsplash]]
+
 [[url_for:cv,slug=14][Ghosts in the Toybox]]
 - [[https://unsplash.com/photos/GQ327RPuxhI][Alphabet Blocks]] - [[https://unsplash.com/@shs521][Susan Holt Simpson]] - [[https://unsplash.com/license][Unsplash]]
 
