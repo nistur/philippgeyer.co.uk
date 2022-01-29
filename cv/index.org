@@ -49,7 +49,7 @@ My first job after moving to 'Silicon Spa' in 2013 until 2016.
 I did a little contract work, working on a few Disney licensed titles,
 for a few months in 2013
 - [[url_for:cv,slug=07][Disney Mickey & Minnie Applingz]]
-- [[url_for:cv,slug=08][Disney Cars and Disney Planes]]
+- [[url_for:cv,slug=08][Disney Cars and Disney Planes]] *
 
 * Ideaworks Game Studio / Marmalade Game Studio
 My first job out of university. I started in 2010 as a Junior

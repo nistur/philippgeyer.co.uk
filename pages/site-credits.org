@@ -38,6 +38,10 @@ for it.
 - [[https://www.pexels.com/photo/green-apple-beside-of-two-clear-glass-jars-616833/][Green Apple Beside of Two Clear Glass Jars]] - [[https://www.pexels.com/@ifreestock][Toni Cuenca]] - [[https://www.pexels.com/license/][Pexels]]
 - [[https://unsplash.com/photos/o_O75f28GiA][Marmalade made of apples]] - [[https://unsplash.com/@khlebnikovayulia][Yulia Khlebnikova]] - [[https://unsplash.com/license][Unsplash]]
 
+[[url_for:cv,slug=08][Disney Cars and Disney Planes]]
+- [[https://unsplash.com/photos/2FWMz7Ug90U][Red Racing Car on Track]] - [[https://unsplash.com/@araltasher][Aral Tasher]] - [[https://unsplash.com/license][Unsplash]]
+- [[https://www.pexels.com/photo/aerial-photography-of-two-airplanes-flying-2366581/][Aerial Photography of Two Airplanes Flying]] - [[https://www.pexels.com/@martindickson][Martin Dickson]] - [[https://www.pexels.com/license/][Pexels]]
+
 [[url_for:cv,slug=09][Guitar Hero: Live]]
 - [[https://www.pexels.com/photo/red-electric-guitar-165971/][Red Electric Guitar]] - [[https://www.pexels.com/@meline-waxx-44315][Meline Waxx]] - [[https://www.pexels.com/terms-of-service/][Pexels]]
 - [[https://www.pexels.com/photo/person-playing-a-blue-guitar-hero-live-7886380/][Person Playing a Blue Guitar Hero Live]] - [[https://www.pexels.com/@mikhail-nilov][Mikhail Nilov]] - [[https://www.pexels.com/terms-of-service/][Pexels]]

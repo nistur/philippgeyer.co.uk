@@ -1,2 +1,16 @@
 #+TITLE: Disney Cars and Disney Planes
 #+SLUG: 08
+
+[[url_for_img:static,file=images/cv/photo-1567965900086-31681d647178.jpeg][Photo by Aral Tasher on Unsplash]]
+
+This project was to create two small games to tie in with Disney Cars
+and Planes movies, targetted at young children. The game itself was
+intended to be a free download, and the developer would sell plastic
+steering wheels and flight yokes which would hold the mobile device
+in it.
+
+I set up a project that we could use for both games, and would share a
+lot of things such as UI flow, scoring, and input. The vehicle
+handling was developed following a path, for both Cars and Planes.
+
+[[url_for_img:static,file=images/cv/pexels-photo-2366581.jpeg][Photo by Martin Dickson from Pexels]]
