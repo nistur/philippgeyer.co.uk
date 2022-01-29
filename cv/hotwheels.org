@@ -1,7 +1,7 @@
 #+TITLE: HotWheels Ultimate Garage
 #+SLUG: 19
 
-[[url_for_img:static,images/cv/photo-1589018057745-8c699b3f361c.jpeg][Photo by Claudio Schwarz on Unsplash]]
+[[url_for_img:static,file=images/cv/photo-1589018057745-8c699b3f361c.jpeg][Photo by Claudio Schwarz on Unsplash]]
 
 We were asked to help another studio out with some work on the
 Hotwheels ID line. This involved having RFID sensors in certain cars,
