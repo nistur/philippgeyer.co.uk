@@ -1,2 +1,25 @@
 #+TITLE: Guitar Hero: Live - Companion App
 #+SLUG: 10
+
+[[url_for_img:static,file=images/cv/pexels-photo-167446.jpeg][Photo by Thibault Trillet from Pexels]]
+
+This project spanned the entirety of my time at FreeStyleGames as
+it went through a number of iterations before we settled on the final
+implementation. The premise was that it would be a companion app which
+would supplement the gameplay of the main game. It had planned
+features such as touch guitar and drum gameplay, an program guide for
+GHTV, scheduling alarms, which could be shared with friends to play
+alongside them. We also experimented with using the device's
+microphone to be able to sing the vocals of any tracks. Due to a
+number of reasons unrelated to the development, the only feature that
+ever shipped was the microphone.
+
+The app was predominantly written in Unity, but we did leverage
+several libraries and systems from the main game, to save rewriting
+them from C++ into C#. As such I had a number of tasks which were
+related to creating the interface between the systems, and ensure that
+they were working correctly. I was handled the markup parsing, and
+gameplay features of the touch modes, as well as the majority of the
+UI.
+
+[[url_for_img:static,file=images/cv/photo-1511671782779-c97d3d27a1d4.jpeg][Photo by israel palacio on Unsplash]]

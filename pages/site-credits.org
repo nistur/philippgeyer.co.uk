@@ -42,6 +42,10 @@ for it.
 - [[https://www.pexels.com/photo/red-electric-guitar-165971/][Red Electric Guitar]] - [[https://www.pexels.com/@meline-waxx-44315][Meline Waxx]] - [[https://www.pexels.com/terms-of-service/][Pexels]]
 - [[https://www.pexels.com/photo/person-playing-a-blue-guitar-hero-live-7886380/][Person Playing a Blue Guitar Hero Live]] - [[https://www.pexels.com/@mikhail-nilov][Mikhail Nilov]] - [[https://www.pexels.com/terms-of-service/][Pexels]]
 
+[[url_for:cv,slug=10][Guitar Hero: Live Companion App]]
+- [[https://www.pexels.com/photo/man-using-brown-and-black-electric-guitar-while-singing-167446/][Man Using Brown and Black Electric Guitar While Singing]] - [[https://www.pexels.com/@thibault-trillet-44912][Thibault Trillet]] - [[https://www.pexels.com/license/][Pexels]]
+- [[https://unsplash.com/photos/Y20JJ_ddy9M][Condensor Microphone]] - [[https://unsplash.com/@othentikisra][Israel Palacio]] - [[https://unsplash.com/license][Unsplash]]
+
 [[url_for:cv,slug=12][Call of Duty: Ghosts]]
 - [[https://www.pexels.com/photo/soldier-holding-rifle-78783/][Soldier Holding Rifle]] - [[https://www.pexels.com/@pixabay][Pixabay]] - [[https://www.pexels.com/creative-commons-images/][Pexels]]
 - [[https://www.pexels.com/photo/photo-of-building-930436/][Photo of Building]] - [[https://www.pexels.com/@paggiarofrancesco][Francesco Paggiaro]] - [[https://www.pexels.com/license/][Pexels]]
