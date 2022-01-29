@@ -1,7 +1,7 @@
 #+TITLE: Freeblade
 #+SLUG: 15
 
-[[url_for_img:static,images/cv/pexels-photo-1660753.jpeg][Photo by schach100 from Pexels]]
+[[url_for_img:static,file=images/cv/pexels-photo-1660753.jpeg][Photo by schach100 from Pexels]]
 
 I was asked to help with the porting of Freeblade to tvOS. There were
 a few things involved with this, the immediate thing was to ensure
