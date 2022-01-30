@@ -43,7 +43,7 @@ former colleagues until 2017.
 My first job after moving to 'Silicon Spa' in 2013 until 2016.
 - [[url_for:cv,slug=09][Guitar Hero: Live]] *
 - [[url_for:cv,slug=10][Guitar Hero: Live - Companion App]] *
-- [[url_for:cv,slug=11][Call of Duty Online]]
+- [[url_for:cv,slug=11][Call of Duty Online]] 
 - [[url_for:cv,slug=12][Call of Duty: Ghosts]] *
 * AppToyz
 I did a little contract work, working on a few Disney licensed titles,

@@ -1,2 +1,15 @@
 #+TITLE: Call of Duty Online
 #+SLUG: 11
+
+[[url_for_img:static,file=images/cv/photo-1560177776-295b9cd779de.jpeg][Photo by HIZIR KAYA on Unsplash]]
+
+I helped support the UI for the China only Call of Duty Online. For
+this I worked in Flash to make the UI in Scaleform, working on
+supporting the metagame systems, working in a flexible way that could
+be easily updated and changed based on server events.
+
+This was my first exposure to working in Scaleform itself, and was
+interesting to see this and compare it with my use of GameSWF, as we
+used in a [[url_for:cv,slug=03][previous game]].
+
+[[url_for_img:static,file=images/cv/photo-1615133878310-b053dda98b04.jpeg][Photo by Michał Franczak on Unsplash]]
