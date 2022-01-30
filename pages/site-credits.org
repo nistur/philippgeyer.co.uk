@@ -38,6 +38,10 @@ for it.
 - [[https://www.pexels.com/photo/green-apple-beside-of-two-clear-glass-jars-616833/][Green Apple Beside of Two Clear Glass Jars]] - [[https://www.pexels.com/@ifreestock][Toni Cuenca]] - [[https://www.pexels.com/license/][Pexels]]
 - [[https://unsplash.com/photos/o_O75f28GiA][Marmalade made of apples]] - [[https://unsplash.com/@khlebnikovayulia][Yulia Khlebnikova]] - [[https://unsplash.com/license][Unsplash]]
 
+[[url_for:cv,slug=07][Disney Applingz]]
+- [[https://www.pexels.com/photo/brown-and-white-mice-2280794/][Brown and White Mice]] - [[https://www.pexels.com/@alexasfotos][Alexas Fotas]] - [[https://www.pexels.com/license/][Pexels]]
+- [[https://unsplash.com/photos/ngbQ2aRMYYQ][Mouse sitting in the birdhouse]] - [[https://unsplash.com/@marcus_ganahl][Marcus Ganahl]] - [[https://unsplash.com/license][Unsplash]]
+
 [[url_for:cv,slug=08][Disney Cars and Disney Planes]]
 - [[https://unsplash.com/photos/2FWMz7Ug90U][Red Racing Car on Track]] - [[https://unsplash.com/@araltasher][Aral Tasher]] - [[https://unsplash.com/license][Unsplash]]
 - [[https://www.pexels.com/photo/aerial-photography-of-two-airplanes-flying-2366581/][Aerial Photography of Two Airplanes Flying]] - [[https://www.pexels.com/@martindickson][Martin Dickson]] - [[https://www.pexels.com/license/][Pexels]]

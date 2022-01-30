@@ -1,2 +1,16 @@
 #+TITLE: Disney Applingz
 #+SLUG: 07
+
+[[url_for_img:static,file=images/cv/pexels-photo-2280794.jpeg][Photo by Alexas Fotos from Pexels]]
+
+The goal for this app was to have Mickey and Minnie's face on the
+mobile device, which would be able to perform actions like talk to the
+user and play mini games with them. The face would slide into a plush
+designed for it, to give the user the experience of being able to play
+with their favourite characters.
+
+This was the only project I've ever done using Cocos2D-X which was
+interesting. Unfortunatly this was cancelled before it got completed
+for licensing issues.
+
+[[url_for_img:static,file=images/cv/photo-1626456246585-13acf937be12.jpeg][Photo by Marcus Ganahl on Unsplash]]
