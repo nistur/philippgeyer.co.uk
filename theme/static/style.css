@@ -173,7 +173,7 @@ footer {
   padding: 0px 0px 30px 0px;
   background-position: center bottom;
   background-image: url("footer.png");
-  background-repeat: no-repeat;
+  background-repeat: repeat-y;
   background-size: auto 100%;
 }
 
