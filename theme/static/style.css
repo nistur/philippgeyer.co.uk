@@ -42,11 +42,6 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    
-    background-position: bottom;
-    background-image: url("footer.png");
-    background-repeat: no-repeat;
-    background-size: contain;
 }
 
 header {
@@ -175,6 +170,11 @@ footer {
   display: flex;
   align-items: center;
   justify-content: center;
+    
+  background-position: bottom;
+  background-image: url("footer.png");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 
