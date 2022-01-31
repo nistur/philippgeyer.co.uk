@@ -1,6 +1,6 @@
 #+TITLE: Experience
 #+SLUG: 00
-#+OPTIONS: toc:nil
+#+OPTIONS: toc:nil num:nil
 
 My CV has a list of my previous experiences on it, but given the
 limited space, only very little can be said about them. So I decided
