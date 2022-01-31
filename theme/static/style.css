@@ -169,11 +169,11 @@ footer {
   height: 300px;
   display: flex;
   align-items: center;
-  justify-content: bottom;
+  justify-content: center bottom;
   padding: 0px 0px 10px 0px;
   background-position: center bottom;
   background-image: url("footer.png");
-  background-repeat: repeat-y;
+  background-repeat: repeat-x;
   background-size: auto 100%;
 }
 
