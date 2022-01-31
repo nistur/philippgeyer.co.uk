@@ -42,7 +42,8 @@
 
     {# Links, copyright notice, etc #}
     {% block footer %}
-      <footer>
+    <footer>
+      <div id="footer_content">
 	<ul class="menu">
 	  <li><a href="{{ url_for("pages", slug="about") }}">about</a></li>
 	  <li><a href="{{ url_for("cv", slug="00") }}">experience</a></li>
@@ -52,6 +53,7 @@
 	  <li><a href="{{ url_for("pages", slug="contact") }}">contact</a></li>
 	  <li><a href="{{ url_for("pages", slug="credits") }}">credits</a></li>
 	</ul>
+	</div>
       </footer>
     {% endblock %}
 

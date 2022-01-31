@@ -167,14 +167,20 @@ footer {
 /*  background: var(--cl-foreground); */
   color: var(--cl-background);
   height: 300px;
-  display: flex;
   align-items: center;
-  justify-content: center;
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
   padding: 0px 0px 10px 0px;
   background-position: center bottom;
   background-image: url("footer.png");
   background-repeat: repeat-x;
   background-size: auto 100%;
+}
+
+#footer_content {
+  display: flex;
+  justify-content: center;
 }
 
 
