@@ -9,7 +9,9 @@ that I needed to showcase the work I did on them here.
 * CUEi
 Just before the pandemic hit in 2020, I joined Coventry University
 Enterprises, to work on 'non-game games', using games technologies for
-enterprise.
+enterprise. I am currently working here so will not put more
+information. Mostly in Unreal engine, but with some standalone C++,
+Unity, and working with AWS cloud survices.
 - On Demand rendering
 - Layered rendering
 - AR sales application
