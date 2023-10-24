@@ -15,3 +15,7 @@ more not shared just for the sake of experimenting with the languages.
 
 If you're wanting to look at my past experience, [[https://github.com/nistur/cv/releases/latest][my CV is available on
 github]] and I have [[url_for:cv,slug=00][a short writeup on each project]] I've worked on.
+
+If you're looking for things I have done in personal projects, please
+feel free to check out my [[https://nistur.co.uk][other site]] which should have a wide array of
+tinkering on it.

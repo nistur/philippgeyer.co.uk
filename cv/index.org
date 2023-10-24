@@ -6,11 +6,14 @@ My CV has a list of my previous experiences on it, but given the
 limited space, only very little can be said about them. So I decided
 that I needed to showcase the work I did on them here.
 
+* Egosoft
+As of 2022 I work as a programmer for Egosoft, working on the X series
+of games. 
+
 * CUEi
 Just before the pandemic hit in 2020, I joined Coventry University
 Enterprises, to work on 'non-game games', using games technologies for
-enterprise. I am currently working here so will not put more
-information. Mostly in Unreal engine, but with some standalone C++,
+enterprise. Mostly worked in Unreal engine, but with some standalone C++,
 Unity, and working with AWS cloud survices.
 - On Demand rendering
 - Layered rendering

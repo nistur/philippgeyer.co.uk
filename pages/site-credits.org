@@ -7,7 +7,7 @@ software and assets. Below I've listed everything that I haven't
 created, or had created specifically for me, along with the license
 for it.
 
-- Web server - [[https://picolisp.com/wiki/?home][Picolisp]] - [[https://opensource.org/licenses/MIT][MIT]]
+- Web hosting - [[https://opensourcerers.uk/][Open Sourcerers]]
 - Static site generator - [[https://emacs.love/weblorg][Weblorg]] - [[https://www.gnu.org/licenses/gpl-3.0.en.html][GPL]]
 - Footer image - [[https://ansimuz.itch.io/country-side-platfformer-][Country Side Platfformer]] - [[https://creativecommons.org/share-your-work/public-domain/cc0/][CC0]]
 
