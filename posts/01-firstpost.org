@@ -1,17 +1,20 @@
 #+TITLE: A New Start
+#+DATE: <2022-02-10 Thu>
 
 #+BEGIN_EXAMPLE
 All we have to decide is what to do with the time that is given us. - JRR Tolkien
 #+END_EXAMPLE
 
-I used to have an old site, which I hosted at http://nistur.com. I had
-an ancient version of Wordpress which I pretty much abandoned. I kept
-the page around because I had my CV linking to various parts of it. I
-wanted to keep the domain name, because it was a handle I had used
-since I was a teenager, but the site itself didn't bother me. When the
-site just totally gave up, I had to decide what to do. Either I could
-try to put it onto life support for the purpose of just expanding on
-the information in my [[file:pages/cv.org][CV]] or, I could create something new.
+I used to have an old site, which I hosted at nistur.com /(Edit: I let
+this domain lapse, and now it appears to have been snapped up by a
+Chinese video streaming site?)/. I had an ancient version of Wordpress
+which I pretty much abandoned. I kept the page around because I had my
+CV linking to various parts of it. I wanted to keep the domain name,
+because it was a handle I had used since I was a teenager, but the
+site itself didn't bother me. When the site just totally gave up, I
+had to decide what to do. Either I could try to put it onto life
+support for the purpose of just expanding on the information in my [[file:pages/cv.org][CV]]
+or, I could create something new.
 
 I did procrastinate, trying to decide what was best to spend my time
 working on. I could install a brand new version of Wordpress on a
@@ -43,6 +46,11 @@ future, but also the static site would mean that if I changed where I
 wanted to host it in future, I would just copy the data files onto the
 new host. Simple.
 
+/Edit: I was offered hosting by my friend at [[https://opensourcerers.uk/][Open Sourcerers]] so this
+site is now hosted there. I'm not using Picolisp any more as I didn't
+feel it was fair for me to pester him to set up a specific server just
+for me. Otherwise the setup is the same./
+
 What static site generator then? Most people would probably go for
 something that uses Markdown, and I did seriously consider that. The
 solutions are very good, and very well supported. I, however, had been
@@ -70,5 +78,8 @@ to keep things a bit more organised. I also won't make this
 particularly tight laced. As should be obvious by this post, I find
 more informal writing a lot easier, so I'll keep this laid back
 approach.
+
+/Edit: I have just set up [[https://nistur.co.uk][nistur.co.uk]] for some more random computing
+musings and personal projects./
 
 That's probably it for now.
